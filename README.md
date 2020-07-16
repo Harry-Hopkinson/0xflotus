@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 👨🏻‍💻 by day
+- 👨🏻‍💻 by night 😎
+
 <!--
 **0xflotus/0xflotus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
