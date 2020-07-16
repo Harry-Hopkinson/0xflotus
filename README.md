@@ -3,7 +3,7 @@
 - 👨🏻‍💻 by day
 - 👨🏻‍💻 by night 😎
 
-![0xflotus' github stats](https://github-readme-stats.vercel.app/api?username=0xflotus)
+![0xflotus' github stats](https://github-readme-stats.vercel.app/api?username=0xflotus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 <!--
