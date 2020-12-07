@@ -7,8 +7,6 @@
 ![0xflotus' github stats](https://github-readme-stats.vercel.app/api?username=0xflotus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact)
 ![0xflotus' top langs](https://github-readme-stats.vercel.app/api/top-langs?username=0xflotus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact)
 
-[![Valid GTIN](https://github-readme-stats.vercel.app/api/pin/?username=0xflotus&repo=valid-gtin&show_owner=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/0xflotus/valid-gtin)
-
 <!--
 **0xflotus/0xflotus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
