@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 by day
-- 👨🏻‍💻 by night 😎
+```js
+console.log('👨🏻‍💻 by day && night 😎');
+```
+
 - Open Source Code Explorer, Enthusiast and ~Archeo~ ~Arkeolo~ Archaeologist, that's it!
 
 
