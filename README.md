@@ -5,7 +5,7 @@
 
 ```prolog
 job_title(X) :-
-    member(X, ['Fullstack Developer', 'Security Researcher', 'Data Scientist']),
+    member(X, ['Fullstack Developer', 'Software Engineer', 'Security Researcher', 'Data Scientist']),
     \+ member(X, ['Consultant']).
 ```
 
