@@ -2,7 +2,7 @@
 
 ```ts
 Array.from({ length: 20 }, (_, i) => i + 1)
-     .forEach((i) => console.log('*'.repeat(i).padStart(i, '\u0020') + '*'.repeat(i - 1)));
+     .forEach((i) => console.log('*'.repeat(i).padStart(20, '\u0020') + '*'.repeat(i - 1)));
 ```
 
 
