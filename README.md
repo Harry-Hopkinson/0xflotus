@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ```js
-(function(length, char) { 
+(function(length, c) { 
   Array.from({ length }, (_, i) => i + 1)
-       .forEach((e, _, a) => console.log(char.repeat(e).padStart(a.length, '\u0020') + char.repeat(e - 1))); 
+       .forEach((e, _, a) => console.log(c.repeat(e).padStart(a.length, '\u0020') + c.repeat(e - 1))); 
 })(0x14, '\u002A')
 ```
 
