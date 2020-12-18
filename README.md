@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+```ts
+Array.from({ length: 20 }, (_, i) => i + 1)
+     .forEach((i) => console.log('*'.repeat(i).padStart(20, '\u0020') + '*'.repeat(i - 1)));
+```
+
+
 ```js
 console.log('👨🏻‍💻 by day && night 😎');
 ```
