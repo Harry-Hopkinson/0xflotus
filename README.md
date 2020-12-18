@@ -4,7 +4,7 @@
 (function(length, char) { 
   Array.from({ length }, (_, i) => i + 1)
        .forEach((e, _, a) => console.log(char.repeat(e).padStart(a.length, '\u0020') + char.repeat(e - 1))); 
-})(20, '*')
+})(0x14, '\u002A')
 ```
 
 
