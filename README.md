@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-```ts
-Array.from({ length: 20 }, (_, i) => i + 1)
-     .forEach((i, _, a) => console.log('*'.repeat(i).padStart(a.length, '\u0020') + '*'.repeat(i - 1)));
+```js
+(function(length, char) { 
+  Array.from({ length }, (_, i) => i + 1)
+       .forEach((e, _, a) => console.log(char.repeat(e).padStart(a.length, '\u0020') + char.repeat(e - 1))); 
+})(20, '*')
 ```
 
 
