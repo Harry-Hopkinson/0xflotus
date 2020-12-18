@@ -8,8 +8,8 @@
 ```
 
 
-```js
-console.log('👨🏻‍💻 by day && night 😎');
+```python
+print('👨🏻‍💻 by day && night 😎')
 ```
 
 - Open Source Code Explorer, Enthusiast and ~Archeo~ ~Arkeolo~ Archaeologist, that's it!
