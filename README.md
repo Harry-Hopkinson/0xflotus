@@ -2,6 +2,9 @@
 
 ```python
 print('👨🏻‍💻 by day && night 😎')
+print('|_|O|_|')
+print('|_|_|O|')
+print('|O|O|O|')
 ```
 
 ```prolog
