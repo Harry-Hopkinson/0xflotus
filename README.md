@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+```clojure
+((defn newYear [] (println "Happy new year! 🚀")))
+```
+
 ```python
 print('👨🏻‍💻 by day && night 😎')
 print('|_|O|_|')
