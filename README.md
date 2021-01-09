@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```clojure
-((defn newYear [] (println "Happy new year! 🚀")))
+((defn greeting [] (println (clojure.string/join " " ["\u0048\u0065\u006c\u006c\u006f" "Stranger"]))))
 ```
 
 ```python
