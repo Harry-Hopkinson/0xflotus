@@ -1,14 +1,11 @@
 ### Hi there 👋
 
 ```clojure
-((defn greeting [] (println (clojure.string/join " " ["\u0048\u0065\u006c\u006c\u006f" "Stranger"]))))
+((defn func [] (println (clojure.string/join "\u000a" ["|_|O|_|" "|_|_|O|" "|O|O|O|"]))))
 ```
 
 ```python
 print('👨🏻‍💻 by day && night 😎')
-print('|_|O|_|')
-print('|_|_|O|')
-print('|O|O|O|')
 ```
 
 ```prolog
